@@ -4,6 +4,5 @@
 
 [Процентое соотнешение количетсва зубных нитей различных брендов на Wildberries](https://yequalx.com/chart/pie/%D0%91%D1%80%D0%B5%D0%BD%D0%B4,%D0%9A%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE%20;COLGATE,4;CURAPROX,11;ORAL-B,269;%D0%A1%D1%82%D1%80%D0%BE%D0%BA%D0%B0%204,96#w:800;h:400;c:4285F4,db4437,f4b400,0f9d58)
 
-[Процентое соотнешение количетсва зубных паст различных брендов на Wildberries]
-(https://yequalx.com/chart/pie/%D0%91%D1%80%D0%B5%D0%BD%D0%B4,%D0%9A%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE%20;COLGATE,2321;CURAPROX,169;ORAL-B,11;SPLAT,1030;R.O.C.S.,176#w:800;h:400;c:4285F4,db4437,f4b400,0f9d58,ab47bc)
+[Процентое соотнешение количетсва зубных паст различных брендов на Wildberries](https://yequalx.com/chart/pie/%D0%91%D1%80%D0%B5%D0%BD%D0%B4,%D0%9A%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE%20;COLGATE,2321;CURAPROX,169;ORAL-B,11;SPLAT,1030;R.O.C.S.,176#w:800;h:400;c:4285F4,db4437,f4b400,0f9d58,ab47bc)
 ## OralB_analysis.xlsx:
