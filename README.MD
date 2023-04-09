@@ -18,9 +18,17 @@
    - Всесторонняя Чистка Black
    - Colors
 ### Зубная Паста - представленны все товары паст:
-   -3-D White Отбеливающая ![image](https://user-images.githubusercontent.com/76563919/230747429-5cf9286b-54d1-4ad0-8762-5e4bbf1e9ca4.png)
-
+   - 3-D White Отбеливающая 
+   - 3-D White Luxe Perfection
+   - Oral-B 3D White Luxe Glamour
+   - Oral-B 3D White Diamond Clean
+   - Oral-B Kids Дисней "Холодное Сердце" / "Тачки" ( Можно выбрать один из двух дизайнов )
+   - Oral-B Kids Дисней "Звездные Войны"
+   - Oral-B  Винни
 ### Ополаскиватели - представленны все товары ополаскивателей:
-   -
+   - Oral-B  Lasting Frashness
+   - Oral-B  Pro-Health
 ### Зубные Нити - представлена малая чась осортимента ( более 70% всех товаров занимает Essential Floss):
-   - 
+   - Oral-B Essential Floss
+   - Oral-B Satin Floss
+   - Oral-B Super Floss
